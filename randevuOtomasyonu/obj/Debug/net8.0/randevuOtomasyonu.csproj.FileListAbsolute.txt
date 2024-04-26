@@ -151,3 +151,6 @@ C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu\bin\Debug\net8.0\runt
 C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu\bin\Debug\net8.0\IdentityServer3.dll
+C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu\bin\Debug\net8.0\Owin.dll
+C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu\obj\Debug\net8.0\randevuOtomasyonu.sourcelink.json

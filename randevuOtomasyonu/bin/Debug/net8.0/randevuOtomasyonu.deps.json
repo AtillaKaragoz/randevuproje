@@ -9,6 +9,7 @@
       "randevuOtomasyonu/1.0.0": {
         "dependencies": {
           "EntityFramework": "6.4.4",
+          "IdentityServer3": "2.6.3",
           "Microsoft.AspNet.Mvc": "5.3.0",
           "Microsoft.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
@@ -77,6 +78,17 @@
           "lib/net6.0/Humanizer.dll": {
             "assemblyVersion": "2.14.0.0",
             "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "IdentityServer3/2.6.3": {
+        "dependencies": {
+          "Owin": "1.0.0"
+        },
+        "runtime": {
+          "lib/net45/IdentityServer3.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.3.0"
           }
         }
       },
@@ -761,6 +773,14 @@
           "System.Threading.Timer": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XDocument": "4.3.0"
+        }
+      },
+      "Owin/1.0.0": {
+        "runtime": {
+          "lib/net40/Owin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
@@ -1680,6 +1700,13 @@
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
     },
+    "IdentityServer3/2.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TrxCgPjJoSwg32313OOOmR6Nx+m6MQb9WH0hj8dhICW9+LtFzcP6akCwYpQbW0ZN/REnQ7WJ71GLmOGuxckzKw==",
+      "path": "identityserver3/2.6.3",
+      "hashPath": "identityserver3.2.6.3.nupkg.sha512"
+    },
     "Microsoft.AspNet.Mvc/5.3.0": {
       "type": "package",
       "serviceable": true,
@@ -2015,6 +2042,13 @@
       "sha512": "sha512-WcSp3+vP+yHNgS8EV5J7pZ9IRpeDuARBPN28by8zqff1wJQXm26PVU8L3/fYLBJVU7BtDyqNVWq2KlCVvSSR4A==",
       "path": "netstandard.library/1.6.1",
       "hashPath": "netstandard.library.1.6.1.nupkg.sha512"
+    },
+    "Owin/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OseTFniKmyp76mEzOBwIKGBRS5eMoYNkMKaMXOpxx9jv88+b6mh1rSaw43vjBOItNhaLFG3d0a20PfHyibH5sw==",
+      "path": "owin/1.0.0",
+      "hashPath": "owin.1.0.0.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",

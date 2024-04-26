@@ -89,6 +89,22 @@
           }
         }
       },
+      "IdentityServer3/2.6.3": {
+        "type": "package",
+        "dependencies": {
+          "Owin": "1.0.0"
+        },
+        "compile": {
+          "lib/net45/IdentityServer3.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/IdentityServer3.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.AspNet.Mvc/5.3.0": {
         "type": "package",
         "dependencies": {
@@ -1116,6 +1132,15 @@
           "System.Threading.Timer": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XDocument": "4.3.0"
+        }
+      },
+      "Owin/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Owin.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Owin.dll": {}
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -3039,6 +3064,20 @@
         "logo.png"
       ]
     },
+    "IdentityServer3/2.6.3": {
+      "sha512": "TrxCgPjJoSwg32313OOOmR6Nx+m6MQb9WH0hj8dhICW9+LtFzcP6akCwYpQbW0ZN/REnQ7WJ71GLmOGuxckzKw==",
+      "type": "package",
+      "path": "identityserver3/2.6.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "identityserver3.2.6.3.nupkg.sha512",
+        "identityserver3.nuspec",
+        "lib/net45/IdentityServer3.dll",
+        "lib/net45/IdentityServer3.pdb",
+        "lib/net45/IdentityServer3.xml"
+      ]
+    },
     "Microsoft.AspNet.Mvc/5.3.0": {
       "sha512": "Q1LcXRqTPmbXJAdf45PsxI6JYnCQP4vBfPCgDFd4dYf8ojxFTo4PH333PC4TzbOqRHxrUWGwgBdcR5T2jNwpHQ==",
       "type": "package",
@@ -4591,6 +4630,18 @@
         "dotnet_library_license.txt",
         "netstandard.library.1.6.1.nupkg.sha512",
         "netstandard.library.nuspec"
+      ]
+    },
+    "Owin/1.0.0": {
+      "sha512": "OseTFniKmyp76mEzOBwIKGBRS5eMoYNkMKaMXOpxx9jv88+b6mh1rSaw43vjBOItNhaLFG3d0a20PfHyibH5sw==",
+      "type": "package",
+      "path": "owin/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Owin.dll",
+        "owin.1.0.0.nupkg.sha512",
+        "owin.nuspec"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -8972,6 +9023,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "EntityFramework >= 6.4.4",
+      "IdentityServer3 >= 2.6.3",
       "Microsoft.AspNet.Mvc >= 5.3.0",
       "Microsoft.EntityFrameworkCore >= 8.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.4",
@@ -9034,6 +9086,10 @@
             "target": "Package",
             "version": "[6.4.4, )"
           },
+          "IdentityServer3": {
+            "target": "Package",
+            "version": "[2.6.3, )"
+          },
           "Microsoft.AspNet.Mvc": {
             "target": "Package",
             "version": "[5.3.0, )"
@@ -9085,6 +9141,16 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
+      "message": "Package 'IdentityServer3 2.6.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "IdentityServer3",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
       "message": "Package 'Microsoft.AspNet.Mvc 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.AspNet.Mvc",
       "targetGraphs": [
@@ -9117,6 +9183,16 @@
       "warningLevel": 1,
       "message": "Package 'Microsoft.Web.Infrastructure 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Web.Infrastructure",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Owin 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Owin",
       "targetGraphs": [
         "net8.0"
       ]
