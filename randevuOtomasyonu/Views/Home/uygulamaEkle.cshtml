@@ -1,0 +1,45 @@
+﻿@model randevuOtomasyonu.Models.Uygulamalar
+
+@{
+    ViewData["Title"] = "Uygulamalar";
+}
+
+<form method="post" asp-action="uygulamaEkle">
+ @Html.AntiForgeryToken()
+
+    <div>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between">
+                        <h3 class="card-title bold color" style="color:#dc3545;stroke-width:1px;">
+                            Yeni içerik eklemek istediğinizden emin misiniz?
+                        </h3>
+                        <div class="d-flex justify-content-between align-items-center" style="width: 110px;">
+                            <button type="submit" class="btn btn-outline-danger btn-rounded">Ekle</button>
+                            <a asp-action="Index" class="btn btn-outline-primary btn-rounded">Geri Dön</a>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label asp-for="ServisTuru" class="control-label"></label>
+                            <input type="text" id="ServisTuru" name="ServisTuru" class="form-control" />
+                            <span asp-validation-for="ServisTuru" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ServisAciklama" class="control-label"></label>
+                            <input type="text" id="ServisAciklama" name="ServisAciklama" class="form-control" />
+                            <span asp-validation-for="ServisAciklama" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ServisUcreti" class="control-label"></label>
+                            <input type="text" id="ServisUcreti" name="ServisUcreti" class="form-control" />
+                            <span asp-validation-for="ServisUcreti" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,70 @@
+﻿@model randevuOtomasyonu.Models.Musteri
+
+@{
+    ViewData["Title"] = "Musteribilgi";
+}
+
+<form method="post" asp-action="musteriDüzenle">
+    @Html.AntiForgeryToken()
+
+    <div>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between">
+                        <h3 class="card-title bold color" style="color:#dc3545;stroke-width:1px;">
+                            Bu içeriği düzenlemek istediğinizden emin misiniz?
+                        </h3>
+                        <div class="d-flex justify-content-between align-items-center" style="width: 110px;">
+                            <button type="submit" class="btn btn-outline-danger btn-rounded">Kaydet</button>
+                            <a asp-action="Index" class="btn btn-outline-primary btn-rounded">Geri Dön</a>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label asp-for="Ad" class="control-label"></label>
+                            <input asp-for="Ad" class="form-control" />
+                            <span asp-validation-for="Ad" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Soyad" class="control-label"></label>
+                            <input asp-for="Soyad" class="form-control" />
+                            <span asp-validation-for="Soyad" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Telefon" class="control-label"></label>
+                            <input asp-for="Telefon" class="form-control" />
+                            <span asp-validation-for="Telefon" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Marka" class="control-label"></label>
+                            <input asp-for="Marka" class="form-control" />
+                            <span asp-validation-for="Marka" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Model" class="control-label"></label>
+                            <input asp-for="Model" class="form-control" />
+                            <span asp-validation-for="Model" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Yil" class="control-label"></label>
+                            <input asp-for="Yil" class="form-control" />
+                            <span asp-validation-for="Yil" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="MotorTipi" class="control-label"></label>
+                            <input asp-for="MotorTipi" class="form-control" />
+                            <span asp-validation-for="MotorTipi" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

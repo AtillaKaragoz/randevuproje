@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = randevuOtomasyonu
+build_property.RootNamespace = randevuOtomasyonu
+build_property.ProjectDir = C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\atill\Desktop\randevuOtomasyonu\randevuOtomasyonu
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/ayarlar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxheWFybGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/kullanıcıDüzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrdWxsYW7EsWPEsUTDvHplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/kullanıcıEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrdWxsYW7EsWPEsUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/kullanıcılar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrdWxsYW7EsWPEsWxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/kullanıcıSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrdWxsYW7EsWPEsVNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/musteribilgi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtdXN0ZXJpYmlsZ2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/musteriDüzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtdXN0ZXJpRMO8emVubGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/musteriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtdXN0ZXJpRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/musteriSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtdXN0ZXJpU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/uygulamaDüzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1eWd1bGFtYUTDvHplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/uygulamaEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1eWd1bGFtYUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/uygulamalar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1eWd1bGFtYWxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Home/uygulamaSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1eWd1bGFtYVNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atill/Desktop/randevuOtomasyonu/randevuOtomasyonu/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sasvy9vn40

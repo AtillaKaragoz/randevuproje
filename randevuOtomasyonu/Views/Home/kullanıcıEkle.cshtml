@@ -1,0 +1,41 @@
+﻿@model randevuOtomasyonu.Models.Login
+
+@{
+    ViewData["Title"] = "Uygulamalar";
+}
+
+<form method="post" asp-action="kullanıcıEkle">
+    @Html.AntiForgeryToken()
+
+    <div>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between">
+                        <h3 class="card-title bold color" style="color:#dc3545;stroke-width:1px;">
+                            Yeni içerik eklemek istediğinizden emin misiniz?
+                        </h3>
+                        <div class="d-flex justify-content-between align-items-center" style="width: 110px;">
+                            <button type="submit" class="btn btn-outline-danger btn-rounded">Ekle</button>
+                            <a asp-action="Index" class="btn btn-outline-primary btn-rounded">Geri Dön</a>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input type="text" id="Email" name="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Sifre" class="control-label"></label>
+                            <input type="text" id="Sifre" name="Sifre" class="form-control" />
+                            <span asp-validation-for="Sifre" class="text-danger"></span>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

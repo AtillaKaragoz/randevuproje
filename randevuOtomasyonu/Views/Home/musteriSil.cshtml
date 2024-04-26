@@ -1,0 +1,90 @@
+﻿@model randevuOtomasyonu.Models.Musteri;
+
+<div>
+    <hr />
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header d-flex justify-content-between">
+                    <h3 class="card-title bold color" style="color:#dc3545;stroke-width:1px;">
+                        Bu içeriği silmek istediğinizden emin misiniz?
+                    </h3>
+                    <div class="d-flex justify-content-between align-items-center" style="width: 110px;">
+                        @using (Html.BeginForm("musteriSil", "Home", FormMethod.Post))
+                        {
+                            <button class="btn btn-outline-danger btn-rounded" type="submit">Sil</button>
+                        }
+
+                        <button class="btn btn-outline-primary btn-rounded">
+                            @Html.ActionLink("Geri Dön", "Index", null)
+                        </button>
+                    </div>
+
+                </div>
+
+                <!-- /.card-header -->
+                <div class="card-body">
+                    <div id="example1_wrapper" class="dataTables_wrapper dt-bootstrap4">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <table id="example1" class="table table-bordered table-striped dataTable dtr-inline" role="grid" aria-describedby="example1_info">
+                                    <thead>
+                                        <tr role="row">
+                                            <th class="sorting sorting_asc" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Rendering engine: activate to sort column descending">Ad</th>
+                                            <th class="sorting" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-label="Browser: activate to sort column ascending">Soyad</th>
+                                            <th class="sorting" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-label="Platform(s): activate to sort column ascending" style="">Telefon</th>
+                                            <th class="sorting" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-label="Platform(s): activate to sort column ascending" style="">Email</th>
+                                            <th class="sorting" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-label="Platform(s): activate to sort column ascending" style="">Marka</th>
+                                            <th class="sorting" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-label="Platform(s): activate to sort column ascending" style="">Model</th>
+                                            <th class="sorting" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-label="Platform(s): activate to sort column ascending" style="">Yil</th>
+                                            <th class="sorting" tabindex="0" aria-controls="example1" rowspan="1" colspan="1" aria-label="Platform(s): activate to sort column ascending" style="">MotorTipi</th>
+
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @{
+                                            <tr class="">
+
+                                                <td style="">
+                                                    @Html.DisplayFor(model => Model.Ad)
+                                                </td>
+                                                <td style="">
+                                                    @Html.DisplayFor(modelItem => Model.Soyad)
+                                                </td>
+                                                <td style="">
+                                                    @Html.DisplayFor(modelItem => Model.Telefon)
+                                                </td>
+                                                <td style="">
+                                                    @Html.DisplayFor(modelItem => Model.Email)
+                                                </td>
+                                                <td style="">
+                                                    @Html.DisplayFor(modelItem => Model.Marka)
+                                                </td>
+                                                <td style="">
+                                                    @Html.DisplayFor(modelItem => Model.Model)
+                                                </td>
+                                                <td style="">
+                                                    @Html.DisplayFor(modelItem => Model.Yil)
+                                                </td>
+                                                <td style="">
+                                                    @Html.DisplayFor(modelItem => Model.MotorTipi)
+                                                </td>
+
+                                            </tr>
+                                        }
+                                    </tbody>
+
+                                </table>
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\randevuOtomasyonu.props" />
+</Project>
