@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("randevuOtomasyonu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+970a0d7663eed49417d8a7550ec034b639c7f5b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56120132fecde82b03ac0eef2116caf09fefff90")]
 [assembly: System.Reflection.AssemblyProductAttribute("randevuOtomasyonu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("randevuOtomasyonu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
