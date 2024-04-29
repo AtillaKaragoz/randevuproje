@@ -205,6 +205,326 @@
       "PackagePath": "staticwebassets\\css\\auth.css"
     },
     {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\LICENSE.md",
+      "PackagePath": "staticwebassets\\css\\datatables\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\css\\datatables\\datatables.min.js"
+    },
+    {
       "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\error.css",
       "PackagePath": "staticwebassets\\css\\error.css"
     },

@@ -1,4 +1,4 @@
-﻿@model randevuOtomasyonu.Models.Musteri
+﻿@model IEnumerable<randevuOtomasyonu.Models.Musteri>
 
 <div class="content">
     <div class="container">
@@ -8,6 +8,16 @@
         <div class="col-md-12 col-lg-12">
             <div class="card">
                 <div class="card-body">
+                    <form action="/Home/Search?searchValue=@ViewBag.Search" metot="post">
+                        <div class="input-group mb-3">
+                            <input type="text" id="searchValue" name="searchValue" class="form-control" placeholder="Müşteri Adı, E-posta vb." aria-label="Müşteri ara" aria-describedby="button-addon2">
+                            <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Ara</button>
+                        </div>
+                    </form>
+                    <div class="">
+                        <a class="btn btn-outline-danger btn-rounded" href="/Home/musteriEkle"> Yeni Giriş </a>
+                    </div>
+               
                     <div id="dataTables-example_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
 
                         <div class="row">
@@ -71,8 +81,9 @@
                                             </th>
                                         </tr>
                                     </thead>
+                                   
                                     <tbody>
-                                        @foreach (var item in ViewBag.musteriler as List<Musteri>)
+                                        @foreach (var item in Model)
                                         {
                                             <tr class="odd">                                            
                                                 <td>@(item.MusteriId)</td>
@@ -91,11 +102,12 @@
                                                         <a class="btn btn-outline-danger btn-rounded" asp-action="musteriSil" asp-route-id="@item.MusteriId"><i class="fas fa-trash"></i></a>
                                                     </div>
                                                 </td>
-                                            </tr>                                      
-                                        }                                                           
+                                            </tr>     
+                                        }
+                                      
                                     </tbody>
-                                </table>
-                                <a class="btn btn-outline-danger btn-rounded" href="/Home/musteriEkle"> Yeni Giriş </a>
+                                  
+                                </table>                       
                             </div>
                            
                         </div>

@@ -7,10 +7,13 @@ using System.Collections.Generic;
 using System.IO;
 using System.Web;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace randevuOtomasyonu.Controllers
 {
+
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -28,12 +31,23 @@ namespace randevuOtomasyonu.Controllers
             return View();
         }
 
+ 
+        public IActionResult Search(string searchValue)
+        {
+            ViewBag.Search = searchValue;
+         
+            var musteriler = _context.Musteris.Where(x => x.Ad.Contains(searchValue) || x.Soyad.Contains(searchValue) || x.Telefon.Contains(searchValue) || x.Email.Contains(searchValue)).ToList();
 
+            return View(musteriler);
+           
+        }
+
+    
         [Route("/musteribilgi")]
         public IActionResult musteribilgi()
         {
-            ViewBag.musteriler = _context.Musteris.ToList();
-            return View();
+            var musteriler = _context.Musteris.Take(6).ToList();
+            return View(musteriler);
             
         }
 
@@ -42,6 +56,7 @@ namespace randevuOtomasyonu.Controllers
         [HttpGet]
         public IActionResult musteriEkle(int id)
         {
+            
             Musteri? musteriEkle = _context.Musteris.Where(x => x.MusteriId == id).FirstOrDefault();
             return View(musteriEkle);
         }
@@ -335,12 +350,21 @@ namespace randevuOtomasyonu.Controllers
             return View();
         }
 
+
+        public IActionResult _dahafazla()
+        {
+            return View();
+        }
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-       
+
+
+
     }
 }

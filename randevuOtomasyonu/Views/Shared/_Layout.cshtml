@@ -15,40 +15,6 @@
     <link href="/css/flag-icon.min.css" rel="stylesheet">
     <link href="/css/navbar-dropdowns.css" rel="stylesheet">
     <link href="/css/sidebar-default.css" rel="stylesheet">
-    <script type="text/javascript">
-        let redirect_url = "/login" // Just Change this URL
-        let redirect_time = 2 // Redirect Timer
-
-        // Redirect with Javascript
-        setTimeout(() => {
-            window.location.href = redirect_url;
-        }, (redirect_time * 1000));
-
-        // Redirect with MetaTag and Title Show Url Info
-        document.querySelector("head").innerHTML = `
-                    <title>Redirect > ${redirect_url}</title>
-                    <meta http-equiv="refresh" content="${redirect_time}; url=${redirect_url}" />
-                    `
-
-        let redirect_cd = redirect_time // Count Down Timer
-        const countDown = () => {
-            document.querySelector("#countDown").innerHTML = ${ redirect_cd } saniye...
-            redirect_cd--
-        }
-        setInterval(countDown, 1000) // Run Count Down Every 1 Second
-
-        // If redirect block 500ms after show text and redirect url
-        setTimeout(() => {
-            document.getElementById("body").innerHTML +=
-                ` <br><br>
-                    Çıkış yapılıyor...
-                    <br>
-                    Eğer yönlendirme başarılı olmadıysa bu linke tıklayabilirsiniz. <a href='${redirect_url}'>LINK</a>`;
-        }, 500);
-
-
-    </script>
-
 
 </head>
 
