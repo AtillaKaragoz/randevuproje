@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E465017D-B2B0-44D0-9E0F-38E6BFBC1207}|randevuOtomasyonu\\randevuOtomasyonu.csproj|c:\\users\\atill\\desktop\\randevuotomasyonu\\randevuotomasyonu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E465017D-B2B0-44D0-9E0F-38E6BFBC1207}|randevuOtomasyonu\\randevuOtomasyonu.csproj|solutionrelative:randevuotomasyonu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E465017D-B2B0-44D0-9E0F-38E6BFBC1207}|randevuOtomasyonu\\randevuOtomasyonu.csproj|c:\\users\\atill\\desktop\\randevuotomasyonu\\randevuotomasyonu\\views\\home\\musteribilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E465017D-B2B0-44D0-9E0F-38E6BFBC1207}|randevuOtomasyonu\\randevuOtomasyonu.csproj|solutionrelative:randevuotomasyonu\\views\\home\\musteribilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465017D-B2B0-44D0-9E0F-38E6BFBC1207}|randevuOtomasyonu\\randevuOtomasyonu.csproj|C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuotomasyonu\\views\\home\\kullan\u0131c\u0131sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E465017D-B2B0-44D0-9E0F-38E6BFBC1207}|randevuOtomasyonu\\randevuOtomasyonu.csproj|solutionrelative:randevuotomasyonu\\views\\home\\kullan\u0131c\u0131sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465017D-B2B0-44D0-9E0F-38E6BFBC1207}|randevuOtomasyonu\\randevuOtomasyonu.csproj|C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuotomasyonu\\views\\home\\kullan\u0131c\u0131d\u00FCzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E465017D-B2B0-44D0-9E0F-38E6BFBC1207}|randevuOtomasyonu\\randevuOtomasyonu.csproj|solutionrelative:randevuotomasyonu\\views\\home\\kullan\u0131c\u0131d\u00FCzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,28 +47,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "randevuOtomasyonu\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "randevuOtomasyonu\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T22:12:20.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "musteribilgi.cshtml",
               "DocumentMoniker": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\Views\\Home\\musteribilgi.cshtml",
               "RelativeDocumentMoniker": "randevuOtomasyonu\\Views\\Home\\musteribilgi.cshtml",
               "ToolTip": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\Views\\Home\\musteribilgi.cshtml",
               "RelativeToolTip": "randevuOtomasyonu\\Views\\Home\\musteribilgi.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGUAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T19:24:08.412Z",
+              "WhenOpened": "2024-04-30T17:50:19.457Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kullan\u0131c\u0131Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\Views\\Home\\kullan\u0131c\u0131Sil.cshtml",
+              "RelativeDocumentMoniker": "randevuOtomasyonu\\Views\\Home\\kullan\u0131c\u0131Sil.cshtml",
+              "ToolTip": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\Views\\Home\\kullan\u0131c\u0131Sil.cshtml",
+              "RelativeToolTip": "randevuOtomasyonu\\Views\\Home\\kullan\u0131c\u0131Sil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T17:48:14.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kullan\u0131c\u0131D\u00FCzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\Views\\Home\\kullan\u0131c\u0131D\u00FCzenle.cshtml",
+              "RelativeDocumentMoniker": "randevuOtomasyonu\\Views\\Home\\kullan\u0131c\u0131D\u00FCzenle.cshtml",
+              "ToolTip": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\Views\\Home\\kullan\u0131c\u0131D\u00FCzenle.cshtml",
+              "RelativeToolTip": "randevuOtomasyonu\\Views\\Home\\kullan\u0131c\u0131D\u00FCzenle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T17:47:55.082Z"
             }
           ]
         },
