@@ -31,18 +31,49 @@ namespace randevuOtomasyonu.Controllers
             return View();
         }
 
- 
+        [HttpGet]
         public IActionResult Search(string searchValue)
         {
-            ViewBag.Search = searchValue;
-         
-            var musteriler = _context.Musteris.Where(x => x.Ad.Contains(searchValue) || x.Soyad.Contains(searchValue) || x.Telefon.Contains(searchValue) || x.Email.Contains(searchValue)).ToList();
 
+            ViewBag.Search = searchValue;
+            var musteriler = _context.Musteris.Where(x => x.Ad.Contains(searchValue) || x.Soyad.Contains(searchValue) || x.Telefon.Contains(searchValue) || x.Email.Contains(searchValue)).ToList();
+          
             return View(musteriler);
            
         }
 
-    
+        //randevuEkle
+        [HttpGet]
+        public IActionResult randevuEkle(int id)
+        {
+            
+            ViewBag.Servisler = _context.Uygulamalars.ToList();
+
+            var model2List = _context.Musteris.Where(x => x.MusteriId == id).FirstOrDefault();
+
+            var viewModel = new MyViewModel
+            {
+                Model1List = _context.Uygulamalars.ToList(),
+                Model2List = model2List,
+                
+            };
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        public IActionResult randevuEkle(int? id)
+        {
+            //burada select list bilgileri ekledikten sonra database post iþlemi yapýlacak
+            return View();
+        }
+
+
+
+
+        //
+
+
         [Route("/musteribilgi")]
         public IActionResult musteribilgi()
         {

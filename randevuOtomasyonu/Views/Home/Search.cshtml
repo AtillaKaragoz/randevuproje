@@ -1,6 +1,5 @@
 ﻿@model IEnumerable<randevuOtomasyonu.Models.Musteri>
 
-
 <div class="content">
     <div class="container">
         <div class="page-title">
@@ -16,7 +15,7 @@
                         </div>
                     </form>
                     <div id="dataTables-example_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
-
+                        @ViewBag.uygulamalar.
                         <div class="row">
                             <div class="col-sm-12">
                                 <table class="table table-hover dataTable no-footer dtr-inline"
@@ -79,7 +78,7 @@
                                         </tr>
                                     </thead>
 
-                                    <tbody>
+                                    <tbody>                                     
                                         @foreach (var item in Model)
                                         {
                                             <tr class="odd">
@@ -93,10 +92,21 @@
                                                 <td>@(item.Yil)</td>
                                                 <td>@(item.MotorTipi)</td>
                                                 <td class="text-end">
-                                                    <div class="row">
-                                                        <a class="btn btn-outline-info btn-rounded" asp-action="musteriDüzenle" asp-route-id="@item.MusteriId"><i class="fas fa-pen"></i></a>
+                                                    <div class="d-flex">
+                                                        <div class="hover-light-gray">
+                                                            <a class="hover-light-gray" asp-action="randevuEkle" asp-route-id="@item.MusteriId">
+                                                                <span class="material-symbols-outlined" style="font-size:30px">
+                                                                    perm_contact_calendar
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <div>
+                                                            <a class="btn btn-outline-info btn-rounded" asp-action="musteriDüzenle" asp-route-id="@item.MusteriId"><i class="fas fa-pen"></i></a>
+                                                        </div>
+                                                        <div>
+                                                            <a class="btn btn-outline-danger btn-rounded" asp-action="musteriSil" asp-route-id="@item.MusteriId"><i class="fas fa-trash"></i></a>
+                                                        </div>
 
-                                                        <a class="btn btn-outline-danger btn-rounded" asp-action="musteriSil" asp-route-id="@item.MusteriId"><i class="fas fa-trash"></i></a>
                                                     </div>
                                                 </td>
                                             </tr>

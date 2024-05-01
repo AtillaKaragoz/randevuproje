@@ -1,0 +1,62 @@
+﻿
+@model randevuOtomasyonu.MyViewModel
+
+
+<form method="post" asp-action="randevuEkle">
+    @Html.AntiForgeryToken()
+    <div>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between">
+                        <h3 class="card-title bold color" style="color:#dc3545;stroke-width:1px;">
+                            Yeni randevu eklemek istediğinizden emin misiniz?
+                        </h3>
+                        <div class="d-flex align-items-center" style="width: 100px;">
+                            <form action="" metot="get">                            
+                                    <button class="btn btn-outline-danger btn-rounded" type="submit" id="button-addon2">Randevu Ekle</button>
+                                    <a asp-action="Index" class="btn btn-outline-primary btn-rounded">Geri Dön</a>                       
+                            </form>                            
+                        </div>
+
+
+                       
+
+
+                    </div>
+                    <div class="card-body">
+
+                        <div class="form-group">
+                        <label asp-for="Model2List.Ad" class="control-label"></label>
+                        <input asp-for="Model2List.Ad" class="form-control" />
+                        <span asp-validation-for="Model2List.Ad" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                        <label asp-for="Model2List.Soyad" class="control-label"></label>
+                        <input asp-for="Model2List.Soyad" class="form-control" />
+                        <span asp-validation-for="Model2List.Soyad" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                        <label asp-for="Model2List.Telefon" class="control-label"></label>
+                        <input asp-for="Model2List.Telefon" class="form-control" />
+                        <span asp-validation-for="Model2List.Telefon" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="servisTuru" class="control-label">Servis Türü</label>
+                            <select id="servisTuru" name="ServisTuru" class="form-control">
+                                <option value="">Seçiniz</option>
+                                @foreach (var item in Model.Model1List)  
+                                {
+                                    <option value="@item.ServisTuru ">@item.ServisTuru </option>
+                                }
+                            </select>
+                            <span asp-validation-for="ServisTuru" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
