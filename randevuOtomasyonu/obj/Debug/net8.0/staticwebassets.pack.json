@@ -1,827 +1,827 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\randevuOtomasyonu.bundle.scp.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\randevuOtomasyonu.bundle.scp.css",
       "PackagePath": "staticwebassets\\randevuOtomasyonu.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\content\\img\\Beyaz2.png",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\content\\img\\Beyaz2.png",
       "PackagePath": "staticwebassets\\content\\img\\Beyaz2.png"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\content\\img\\bootstraper-logo.png",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\content\\img\\bootstraper-logo.png",
       "PackagePath": "staticwebassets\\content\\img\\bootstraper-logo.png"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\content\\img\\download.svg",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\content\\img\\download.svg",
       "PackagePath": "staticwebassets\\content\\img\\download.svg"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\content\\img\\image-wide.svg",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\content\\img\\image-wide.svg",
       "PackagePath": "staticwebassets\\content\\img\\image-wide.svg"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\auth.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\auth.css",
       "PackagePath": "staticwebassets\\css\\auth.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc.png",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc.png",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc.png"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_both.png",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_both.png",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_both.png"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc.png",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc.png",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc.png"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\LICENSE.md",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\LICENSE.md",
       "PackagePath": "staticwebassets\\css\\datatables\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.css",
       "PackagePath": "staticwebassets\\css\\datatables\\datatables.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.js",
       "PackagePath": "staticwebassets\\css\\datatables\\datatables.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.css",
       "PackagePath": "staticwebassets\\css\\datatables\\datatables.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.js",
       "PackagePath": "staticwebassets\\css\\datatables\\datatables.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\error.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\error.css",
       "PackagePath": "staticwebassets\\css\\error.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\flag-icon.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\flag-icon.min.css",
       "PackagePath": "staticwebassets\\css\\flag-icon.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\LICENSE.md",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\LICENSE.md",
       "PackagePath": "staticwebassets\\css\\fontawesome\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\all.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\all.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\all.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\all.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\all.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\brands.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\brands.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\brands.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\brands.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\brands.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\fontawesome.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\fontawesome.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\regular.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\regular.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\regular.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\regular.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\regular.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\solid.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\solid.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\solid.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\solid.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\solid.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\svg-with-js.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\svg-with-js.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\svg-with-js.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\v4-shims.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\v4-shims.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\v4-shims.min.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome\\css\\v4-shims.min.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\brands.svg",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\brands.svg",
       "PackagePath": "staticwebassets\\css\\fontawesome\\sprites\\brands.svg"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\regular.svg",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\regular.svg",
       "PackagePath": "staticwebassets\\css\\fontawesome\\sprites\\regular.svg"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\solid.svg",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\solid.svg",
       "PackagePath": "staticwebassets\\css\\fontawesome\\sprites\\solid.svg"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\css\\fontawesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\css\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\css\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\css\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\css\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\css\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\css\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\css\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\LICENSE.md",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\LICENSE.md",
       "PackagePath": "staticwebassets\\css\\jquery\\dist\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\css\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\css\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\css\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\css\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\css\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\css\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\master.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\master.css",
       "PackagePath": "staticwebassets\\css\\master.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\navbar-dropdowns.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\navbar-dropdowns.css",
       "PackagePath": "staticwebassets\\css\\navbar-dropdowns.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\sidebar-default.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\sidebar-default.css",
       "PackagePath": "staticwebassets\\css\\sidebar-default.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.eot",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.eot",
       "PackagePath": "staticwebassets\\font\\Lato-Regular.eot"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.ttf",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.ttf",
       "PackagePath": "staticwebassets\\font\\Lato-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.woff",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.woff",
       "PackagePath": "staticwebassets\\font\\Lato-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\charts.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\charts.js",
       "PackagePath": "staticwebassets\\js\\charts.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\Chart.min.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\Chart.min.js",
       "PackagePath": "staticwebassets\\js\\chartsjs\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\LICENSE.md",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\LICENSE.md",
       "PackagePath": "staticwebassets\\js\\chartsjs\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chart.esm.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chart.esm.js",
       "PackagePath": "staticwebassets\\js\\chartsjs\\chart.esm.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chart.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chart.js",
       "PackagePath": "staticwebassets\\js\\chartsjs\\chart.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chunks\\helpers.segment.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chunks\\helpers.segment.js",
       "PackagePath": "staticwebassets\\js\\chartsjs\\chunks\\helpers.segment.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\helpers.esm.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\helpers.esm.js",
       "PackagePath": "staticwebassets\\js\\chartsjs\\helpers.esm.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\dashboard-charts.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\dashboard-charts.js",
       "PackagePath": "staticwebassets\\js\\dashboard-charts.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\form-validator.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\form-validator.js",
       "PackagePath": "staticwebassets\\js\\form-validator.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\fullcalendar-script.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\fullcalendar-script.js",
       "PackagePath": "staticwebassets\\js\\fullcalendar-script.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\initiate-datatables.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\initiate-datatables.js",
       "PackagePath": "staticwebassets\\js\\initiate-datatables.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\initiate-summernote.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\initiate-summernote.js",
       "PackagePath": "staticwebassets\\js\\initiate-summernote.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\initiate-toast.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\initiate-toast.js",
       "PackagePath": "staticwebassets\\js\\initiate-toast.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\musteriEdit.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\musteriEdit.js",
       "PackagePath": "staticwebassets\\js\\musteriEdit.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

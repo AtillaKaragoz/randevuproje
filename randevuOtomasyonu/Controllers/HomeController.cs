@@ -8,6 +8,10 @@ using System.IO;
 using System.Web;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Linq;
+using RestSharp;
+using Newtonsoft.Json.Serialization;
+using Newtonsoft.Json;
 
 
 namespace randevuOtomasyonu.Controllers
@@ -30,6 +34,242 @@ namespace randevuOtomasyonu.Controllers
         {
             return View();
         }
+        public IActionResult OauthRedirect()
+        {
+            var credentialsFile = "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\Files\\credentials.json";
+
+            JObject credentials = JObject.Parse(System.IO.File.ReadAllText(credentialsFile));
+
+            var client_id = credentials["client_id"];
+
+            var redirectUrl = "https://accounts.google.com/o/oauth2/v2/auth?" +
+                            "scope=https://www.googleapis.com/auth/calendar+https://www.googleapis.com/auth/calendar.events&" +
+                            "access_type=offline& " +
+                            "include_granted_scopes=true&" +
+                            "response_type=code&" +
+                            "state=basarili&" +
+                            "redirect_uri=https://localhost:7036/oauth/callback&" +
+                            "client_id=" + client_id;
+          
+
+            return Redirect(redirectUrl);
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public void Callback(string code, string error, string state)
+        {
+            if (string.IsNullOrWhiteSpace(error))
+            {
+                this.GetTokens(code);
+
+
+            }
+
+
+
+        }
+        public IActionResult GetTokens(string code)
+        {
+            var tokenfile = "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\Files\\tokens.json";
+            var credentialsFile = "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\Files\\credentials.json";
+            var credentials = JObject.Parse(System.IO.File.ReadAllText(credentialsFile));
+
+
+
+            //RestClient restClient = new RestClient("https://oauth2.googleapis.com/token");
+            RestRequest request = new RestRequest();
+            request.AddQueryParameter("client_id", credentials["client_id"].ToString());
+            request.AddQueryParameter("client_secret", credentials["client_secret"].ToString());
+            request.AddQueryParameter("code", code);
+            request.AddQueryParameter("grant_type", "authorization_code");
+            request.AddQueryParameter("redirect_uri", "https://localhost:7036/oauth/callback");
+
+
+
+            var client = new RestClient("https://oauth2.googleapis.com/token");
+            var baseUrl = client.Options.BaseUrl;
+            var response = client.Post(request);
+
+            if (response.StatusCode == System.Net.HttpStatusCode.OK)
+            {
+
+                System.IO.File.WriteAllText(tokenfile, response.Content);
+                return RedirectToAction("randevuEkle", "Home");
+            }
+
+
+
+
+            return View("Error");
+
+        }
+        public IActionResult RefreshToken()
+        {
+            var tokenfile = "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\Files\\tokens.json";
+            var credentialsFile = "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\Files\\credentials.json";
+            var credentials = JObject.Parse(System.IO.File.ReadAllText(credentialsFile));
+            var tokens = JObject.Parse(System.IO.File.ReadAllText(tokenfile));
+
+            RestRequest request = new RestRequest();
+            RestClient restClient = new RestClient();
+            request.AddQueryParameter("client_id", credentials["client_id"].ToString());
+            request.AddQueryParameter("client_secret", credentials["client_secret"].ToString());
+            request.AddQueryParameter("grant_type", "refresh_token");
+            if (tokens.ContainsKey("refresh_token"))
+            {
+                request.AddQueryParameter("refresh_token", tokens["refresh_token"].ToString());
+
+                var client = new RestClient("https://oauth2.googleapis.com/token");
+                var baseUrl = client.Options.BaseUrl;
+                var response = client.Post(request);
+
+                if (response.StatusCode == System.Net.HttpStatusCode.OK)
+                {
+                    JObject newTokens = JObject.Parse(response.Content);
+                    newTokens["refresh_token"] = tokens["refresh_token"].ToString();
+                    System.IO.File.WriteAllText(tokenfile, newTokens.ToString());
+                    return RedirectToAction("randevuEkle", "Home", new { status = "basarili" });
+
+                }
+
+            }
+            else
+            {
+                return View("Error");
+            }
+
+
+
+
+            return View("Error");
+        }
+
+        public IActionResult RevokeToken()
+        {
+            var tokenfile = "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\Files\\tokens.json";
+            var tokens = JObject.Parse(System.IO.File.ReadAllText(tokenfile));
+
+
+
+            RestRequest request = new RestRequest();
+            request.AddQueryParameter("token", tokens["access_token"].ToString());
+
+            var client = new RestClient("https://oauth2.googleapis.com/revoke");
+            var baseUrl = client.Options.BaseUrl;
+            var response = client.Post(request);
+
+
+            if (response.StatusCode == System.Net.HttpStatusCode.OK)
+            {
+
+                return RedirectToAction("randevuEkle", "Home", new { status = "basarili" });
+
+            }
+
+            return View("Error");
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+        [HttpGet]
+        public IActionResult randevuEkle(int id)
+        {
+
+            ViewBag.Servisler = _context.Uygulamalars.ToList();
+
+            var model2List = _context.Musteris.Where(x => x.MusteriId == id).FirstOrDefault();
+
+            var viewModel = new MyViewModel
+            {
+                Model1List = _context.Uygulamalars.ToList(),
+                Model2List = model2List,
+
+            };
+
+            return View(viewModel);
+        }
+
+
+
+        [HttpPost]
+        public IActionResult CreateEvent(Event calendarEvent)
+        {
+ 
+
+            var tokenFile = "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\Files\\tokens.json";
+            var tokens = JObject.Parse(System.IO.File.ReadAllText(tokenFile));
+
+
+            RestRequest request = new RestRequest();
+            
+            calendarEvent.Start.DateTime = DateTime.Parse(calendarEvent.Start.DateTime).ToString("yyyy-MM-dd'T'HH:mm:ss.fff");
+            calendarEvent.End.DateTime = DateTime.Parse(calendarEvent.End.DateTime).ToString("yyyy-MM-dd'T'HH:mm:ss.fff");
+
+            var model = JsonConvert.SerializeObject(calendarEvent, new JsonSerializerSettings
+            {
+                ContractResolver = new CamelCasePropertyNamesContractResolver()
+            });
+
+            request.AddQueryParameter("key", "AIzaSyB_18dmHsgBJSQiHhwnWbY-royBHcu7ae4");
+            request.AddHeader("Authorization", "Bearer " + tokens["access_token"]);
+            request.AddHeader("Accept", "application/json");
+            request.AddHeader("Content-Type", "application/json");
+            request.AddParameter("application/json", model, ParameterType.RequestBody);
+
+
+
+            var client = new RestClient("https://www.googleapis.com/calendar/v3/calendars/primary/events");
+            var baseUrl = client.Options.BaseUrl;
+            var response = client.Post(request);
+
+            if (response.StatusCode == System.Net.HttpStatusCode.OK)
+            {
+                return RedirectToAction("Index", "Home", new { status = "success" });
+            }
+
+
+
+            return View("Error");
+            
+        }
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
 
         [HttpGet]
         public IActionResult Search(string searchValue)
@@ -41,26 +281,9 @@ namespace randevuOtomasyonu.Controllers
             return View(musteriler);
            
         }
-
+        //CreateEvent modeline randevuEkle modelini entegre edilecek
         //randevuEkle
-        [HttpGet]
-        public IActionResult randevuEkle(int id)
-        {
-            
-            ViewBag.Servisler = _context.Uygulamalars.ToList();
-
-            var model2List = _context.Musteris.Where(x => x.MusteriId == id).FirstOrDefault();
-
-            var viewModel = new MyViewModel
-            {
-                Model1List = _context.Uygulamalars.ToList(),
-                Model2List = model2List,
-                
-            };
-
-            return View(viewModel);
-        }
-
+       
         [HttpPost]
         public IActionResult randevuEkle(int? id)
         {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NjAde5s+uUUZq2vIGxKAVhwD1FH7hRuiI4elacN0nZQ=",
+  "Hash": "5Phf9aLCguBojaWvTHxYtZJATY9wwAEqjpBHR8QR0Os=",
   "Source": "randevuOtomasyonu",
   "BasePath": "_content/randevuOtomasyonu",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "randevuOtomasyonu\\wwwroot",
       "Source": "randevuOtomasyonu",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\randevuOtomasyonu.styles.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\randevuOtomasyonu.styles.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "randevuOtomasyonu.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\randevuOtomasyonu.styles.css"
+      "OriginalItemSpec": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\randevuOtomasyonu.styles.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\randevuOtomasyonu.bundle.scp.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\randevuOtomasyonu.bundle.scp.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "randevuOtomasyonu.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\randevuOtomasyonu.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\randevuOtomasyonu.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\bootstrap\\LICENSE",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "bootstrap/LICENSE",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\content\\img\\Beyaz2.png",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\content\\img\\Beyaz2.png",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "content/img/Beyaz2.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\content\\img\\Beyaz2.png"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\content\\img\\bootstraper-logo.png",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\content\\img\\bootstraper-logo.png",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "content/img/bootstraper-logo.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\content\\img\\bootstraper-logo.png"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\content\\img\\download.svg",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\content\\img\\download.svg",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "content/img/download.svg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\content\\img\\download.svg"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\content\\img\\image-wide.svg",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\content\\img\\image-wide.svg",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "content/img/image-wide.svg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\content\\img\\image-wide.svg"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\auth.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\auth.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/auth.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\css\\auth.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/datatables.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\datatables.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/datatables.js",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\datatables.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/datatables.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\datatables.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\datatables.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/datatables.min.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\datatables.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.bootstrap.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.bootstrap.min.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.bootstrap4.min.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.bootstrap5.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.bootstrap5.min.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.bulma.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.bulma.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.dataTables.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.dataTables.min.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.foundation.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.foundation.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.jqueryui.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.jqueryui.min.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.semanticui.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/dataTables.semanticui.min.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/jquery.dataTables.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/css/jquery.dataTables.min.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc.png",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc.png",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/images/sort_asc.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc.png"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/images/sort_asc_disabled.png",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_both.png",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_both.png",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/images/sort_both.png",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_both.png"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc.png",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc.png",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/images/sort_desc.png",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc.png"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/images/sort_desc_disabled.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.bootstrap.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.bootstrap.min.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.bootstrap4.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.bootstrap5.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.bootstrap5.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.bulma.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.bulma.min.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.dataTables.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.dataTables.min.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.foundation.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.foundation.min.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.jqueryui.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.jqueryui.min.js",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.semanticui.js",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/dataTables.semanticui.min.js",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/DataTables-1.10.25/js/jquery.dataTables.min.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\LICENSE.md",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\LICENSE.md",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/LICENSE.md",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.bootstrap.css",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.bootstrap.min.css",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.bootstrap4.css",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.bootstrap4.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.bootstrap5.css",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.bootstrap5.min.css",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.bulma.css",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.bulma.min.css",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.dataTables.css",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.dataTables.min.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.foundation.css",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.foundation.min.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.jqueryui.css",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.jqueryui.min.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.semanticui.css",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/css/responsive.semanticui.min.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/dataTables.responsive.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/dataTables.responsive.min.js",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.bootstrap.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.bootstrap.min.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.bootstrap4.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.bootstrap4.min.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.bootstrap5.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.bootstrap5.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.bulma.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.bulma.min.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.dataTables.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.dataTables.min.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.foundation.js",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.foundation.min.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.jqueryui.js",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.jqueryui.min.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.semanticui.js",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/datatables/Responsive-2.2.9/js/responsive.semanticui.min.js",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\css\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\error.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\error.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/error.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\css\\error.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\flag-icon.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\flag-icon.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/flag-icon.min.css",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\css\\flag-icon.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\all.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\all.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/all.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\all.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\all.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\all.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/all.min.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\brands.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\brands.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/brands.css",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\brands.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\brands.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\brands.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/brands.min.css",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\brands.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\fontawesome.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/fontawesome.css",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\fontawesome.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\regular.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\regular.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/regular.css",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\regular.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\regular.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\regular.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/regular.min.css",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\regular.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\solid.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\solid.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/solid.css",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\solid.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\solid.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\solid.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/solid.min.css",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\solid.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\svg-with-js.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\svg-with-js.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/svg-with-js.css",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\svg-with-js.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\svg-with-js.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\svg-with-js.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\v4-shims.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\v4-shims.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/v4-shims.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\v4-shims.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\v4-shims.min.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\css\\v4-shims.min.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\LICENSE.md",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\LICENSE.md",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/LICENSE.md",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\brands.svg",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\brands.svg",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/sprites/brands.svg",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\sprites\\brands.svg"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\regular.svg",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\regular.svg",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/sprites/regular.svg",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\sprites\\regular.svg"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\solid.svg",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\sprites\\solid.svg",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/sprites/solid.svg",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\sprites\\solid.svg"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.eot",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.svg",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.eot",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.svg",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.eot",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.svg",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/fontawesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.min.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery/dist/jquery.slim.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery/dist/jquery.slim.min.js",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery/dist/jquery.slim.min.map",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\LICENSE.md",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\dist\\LICENSE.md",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery/dist/LICENSE.md",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery\\dist\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery\\LICENSE.txt",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation\\LICENSE.md",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\master.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\master.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/master.css",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\css\\master.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\navbar-dropdowns.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\navbar-dropdowns.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/navbar-dropdowns.css",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\css\\navbar-dropdowns.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\sidebar-default.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\sidebar-default.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/sidebar-default.css",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\css\\sidebar-default.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\css\\site.css",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\favicon.ico",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.eot",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.eot",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "font/Lato-Regular.eot",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Lato-Regular.eot"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.ttf",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.ttf",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "font/Lato-Regular.ttf",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Lato-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.woff",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\font\\Lato-Regular.woff",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "font/Lato-Regular.woff",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\font\\Lato-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\charts.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\charts.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/charts.js",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\js\\charts.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chart.esm.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chart.esm.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/chartsjs/chart.esm.js",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chartsjs\\chart.esm.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chart.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chart.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/chartsjs/chart.js",
       "AssetKind": "All",
@@ -3703,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chartsjs\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\Chart.min.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\Chart.min.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/chartsjs/Chart.min.js",
       "AssetKind": "All",
@@ -3722,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chartsjs\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chunks\\helpers.segment.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\chunks\\helpers.segment.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/chartsjs/chunks/helpers.segment.js",
       "AssetKind": "All",
@@ -3741,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chartsjs\\chunks\\helpers.segment.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\helpers.esm.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\helpers.esm.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/chartsjs/helpers.esm.js",
       "AssetKind": "All",
@@ -3760,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chartsjs\\helpers.esm.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\LICENSE.md",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\chartsjs\\LICENSE.md",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/chartsjs/LICENSE.md",
       "AssetKind": "All",
@@ -3779,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chartsjs\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\dashboard-charts.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\dashboard-charts.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/dashboard-charts.js",
       "AssetKind": "All",
@@ -3798,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dashboard-charts.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\form-validator.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\form-validator.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/form-validator.js",
       "AssetKind": "All",
@@ -3817,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\js\\form-validator.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\fullcalendar-script.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\fullcalendar-script.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/fullcalendar-script.js",
       "AssetKind": "All",
@@ -3836,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fullcalendar-script.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\initiate-datatables.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\initiate-datatables.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/initiate-datatables.js",
       "AssetKind": "All",
@@ -3855,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\js\\initiate-datatables.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\initiate-summernote.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\initiate-summernote.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/initiate-summernote.js",
       "AssetKind": "All",
@@ -3874,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\js\\initiate-summernote.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\initiate-toast.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\initiate-toast.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/initiate-toast.js",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\js\\initiate-toast.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\musteriEdit.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\musteriEdit.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/musteriEdit.js",
       "AssetKind": "All",
@@ -3912,10 +3912,10 @@
       "OriginalItemSpec": "wwwroot\\js\\musteriEdit.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\script.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -3931,10 +3931,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\js\\site.js",
       "SourceId": "randevuOtomasyonu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\atill\\Desktop\\randevuOtomasyonu\\randevuOtomasyonu\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\oarda\\OneDrive\\Masaüstü\\OTOMASYON PROJE\\randevuproje\\randevuOtomasyonu\\wwwroot\\",
       "BasePath": "_content/randevuOtomasyonu",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

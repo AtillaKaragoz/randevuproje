@@ -4,6 +4,7 @@
 
 <form method="post" asp-action="randevuEkle">
     @Html.AntiForgeryToken()
+
     <div>
         <hr />
         <div class="row">
@@ -19,11 +20,6 @@
                                     <a asp-action="Index" class="btn btn-outline-primary btn-rounded">Geri Dön</a>                       
                             </form>                            
                         </div>
-
-
-                       
-
-
                     </div>
                     <div class="card-body">
 
@@ -42,17 +38,8 @@
                         <input asp-for="Model2List.Telefon" class="form-control" />
                         <span asp-validation-for="Model2List.Telefon" class="text-danger"></span>
                         </div>
-                        
-                        <div class="form-group">
-                            <label for="servisTuru" class="control-label">Servis Türü</label>
-                            <select id="servisTuru" name="ServisTuru" class="form-control">
-                                <option value="">Seçiniz</option>
-                                @foreach (var item in Model.Model1List)  
-                                {
-                                    <option value="@item.ServisTuru ">@item.ServisTuru </option>
-                                }
-                            </select>
-                            <span asp-validation-for="ServisTuru" class="text-danger"></span>
+
+
                         </div>
                     </div>
                 </div>
@@ -60,3 +47,34 @@
         </div>
     </div>
 </form>
+
+<div style="margin-top50:px;">
+    <form method="post" asp-action="CreateEvent">
+        <div class="row" style="margin-top:10px;">
+            <label for="Summary" class="col-sm-3">Summary</label>
+            <input type="text" class="col-sm-1 form-control " name="Summary" value="" autocomplete="off" />
+        </div>
+        <div class="row" style="margin-top:10px;">
+            <label for="Description" class="col-sm-3">Description</label>
+            <input type="text" class="col-sm-1 form-control " name="Description" value="" autocomplete="off" />
+        </div>
+
+        <div class="row" style="margin-top:10px;">
+            <label for="Start.DateTime" class="col-sm-3">Start Date</label>
+            <input type="datetime-local" class="col-sm-1 form-control " name="Start.DateTime" value="" autocomplete="off" />
+        </div>
+
+        <div class="row" style="margin-top:10px;">
+            <label for="End.DateTime" class="col-sm-3">End Date Time</label>
+            <input type="datetime-local" class="col-sm-1 form-control " name="End.DateTime" value="" autocomplete="off" />
+        </div>
+        <div class="row col-sm-3" style="margin-top:10px;">
+            <input type="submit" value="Submit" class="btn btn-primary" />
+        </div>
+    </form>
+    <button class="btn btn-primary" style="margin-top:20px;" onclick="location.href='@Url.Action("OauthRedirect","Home")'">Giriş Yap</button>
+    <button class="btn btn-primary" style="margin-top:20px;" onclick="location.href='@Url.Action("RefreshToken","Home")'">Refresh Access Token</button>
+    <button class="btn btn-primary" style="margin-top:20px;" onclick="location.href='@Url.Action("RevokeToken","Home")'">Revoke Access Token</button>
+
+</div>
+<iframe src="https://calendar.google.com/calendar/embed?src=ardayildirim1925%40hotmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
