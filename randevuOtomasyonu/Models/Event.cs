@@ -22,7 +22,7 @@ public partial class Event
     public string Summary { get; set; }
     
     public string Description { get; set; }
-
+    
     public EventDateTime Start { get; set; }
     public EventDateTime End { get; set; }
 

@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace randevuOtomasyonu.Models;
 
-public partial class RandevuprojeContext : DbContext
+public partial class OtomasyonContext : DbContext
 {
-    public RandevuprojeContext()
+    public OtomasyonContext()
     {
     }
 
-    public RandevuprojeContext(DbContextOptions<RandevuprojeContext> options)
+    public OtomasyonContext(DbContextOptions<OtomasyonContext> options)
         : base(options)
     {
     }

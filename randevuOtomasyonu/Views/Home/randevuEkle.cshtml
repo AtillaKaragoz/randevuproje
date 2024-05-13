@@ -1,4 +1,158 @@
-﻿
+﻿@model randevuOtomasyonu.MyViewModel
+
+
+
+<form method="post" asp-action="randevuEkle">
+    @Html.AntiForgeryToken()
+
+    <div>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between">
+                        <h3 class="card-title bold color" style="color:#dc3545;stroke-width:1px;">
+                            Yeni randevu eklemek istediğinizden emin misiniz?
+                        </h3>
+                        <div class="d-flex align-items-center" style="width: 100px;">
+                            <form action="" metot="get">
+                                <button class="btn btn-outline-danger btn-rounded" type="submit" id="button-addon2">Randevu Ekle</button>
+                                <a asp-action="Index" class="btn btn-outline-primary btn-rounded">Geri Dön</a>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="form-group">
+                            <label asp-for="Model2List.Ad" class="control-label"></label>
+                            <input asp-for="Model2List.Ad" class="form-control" />
+                            <span asp-validation-for="Model2List.Ad" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Model2List.Soyad" class="control-label"></label>
+                            <input asp-for="Model2List.Soyad" class="form-control" />
+                            <span asp-validation-for="Model2List.Soyad" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Model2List.Telefon" class="control-label"></label>
+                            <input asp-for="Model2List.Telefon" class="form-control" />
+                            <span asp-validation-for="Model2List.Telefon" class="text-danger"></span>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <form method="post" asp-action="CreateEvent">
+            <div class="row" style="margin-top:10px;">
+                <label for="Summary" class="col-sm-3">Summary</label>
+                <input type="text" class="col-sm-1 form-control" name="Summary" id="Summary" value="@Model.Model2List.Ad @Model.Model2List.Soyad - @Model.Model2List.Telefon" autocomplete="off" />
+            </div>
+            @* <div class="row" style="margin-top:10px;">
+                <label for="Description" class="col-sm-3">Description</label>
+                <input type="text" class="col-sm-1 form-control " name="Description" value="" autocomplete="off" />
+            </div> *@
+            <div class="form-group">
+                <label for="servisTuru" class="control-label">Servis Türü</label>
+                <select id="Description" name="Description" class="form-control">
+                    <option value="">Seçiniz</option>
+                    @foreach (var item in Model.Model1List)
+                    {
+                        <option value="@item.ServisTuru ">@item.ServisTuru </option>
+                    }
+                </select>
+                <span asp-validation-for="ServisTuru" class="text-danger"></span>
+            </div>
+            <div class="row" style="margin-top:10px;">
+                <label for="Start.DateTime" class="col-sm-3">Start Date</label>
+                <input type="datetime-local" class="col-sm-1 form-control " name="Start.DateTime" value="" autocomplete="off" />
+            </div>
+
+            <div class="row" style="margin-top:10px;">
+                <label for="End.DateTime" class="col-sm-3">End Date Time</label>
+                <input type="datetime-local" class="col-sm-1 form-control " name="End.DateTime" value="" autocomplete="off" />
+            </div>
+            <div class="row col-sm-3" style="margin-top:10px;">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+            <button class="btn btn-primary" style="margin-top:20px;" onclick="location.href='@Url.Action("OauthRedirect","Home")'">Giriş Yap</button>
+            <button class="btn btn-primary" style="margin-top:20px;" onclick="location.href='@Url.Action("RefreshToken","Home")'">Refresh Access Token</button>
+            <button class="btn btn-primary" style="margin-top:20px;" onclick="location.href='@Url.Action("RevokeToken","Home")'">Revoke Access Token</button>
+        </form>
+    </div>
+    </div>
+</form>
+<iframe src="https://calendar.google.com/calendar/embed?src=ardayildirim1925%40hotmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"> </iframe>
+
+
+
+<script>
+
+
+
+
+    // Sayfa yüklendiğinde çalışacak JavaScript kodu
+    $(document).ready(function () {
+        // Ad, soyad ve telefon numarasını al
+        var ad = "@Model.Model2List.Ad";
+        var soyad = "@Model.Model2List.Soyad";
+        var telefon = "@Model.Model2List.Telefon";
+
+        // Ad, soyad ve telefon numarasını birleştir
+        var summary = ad + " " + soyad + " - " + telefon;
+
+        // Summary alanına bu birleştirilmiş değeri yerleştir
+        $("#Summary").val(summary);
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* 
 @model randevuOtomasyonu.MyViewModel
 
 
@@ -34,8 +188,8 @@
                         <span asp-validation-for="Model2List.Soyad" class="text-danger"></span>
                         </div>
                         <div class="form-group">
-                        <label asp-for="Model2List.Telefon" class="control-label"></label>
-                        <input asp-for="Model2List.Telefon" class="form-control" />
+                        <label asp-for="Model2List.Telefon"  class="control-label"></label>
+                        <input asp-for="Model2List.Telefon"  class="form-control" />
                         <span asp-validation-for="Model2List.Telefon" class="text-danger"></span>
                         </div>
 
@@ -56,7 +210,7 @@
         </div>
         <div class="row" style="margin-top:10px;">
             <label for="Description" class="col-sm-3">Description</label>
-            <input type="text" class="col-sm-1 form-control " name="Description" value="" autocomplete="off" />
+            <input type="text" class="col-sm-1 form-control " name="Description" value="Model2List.Ad" autocomplete="off" />
         </div>
 
         <div class="row" style="margin-top:10px;">
@@ -77,4 +231,5 @@
     <button class="btn btn-primary" style="margin-top:20px;" onclick="location.href='@Url.Action("RevokeToken","Home")'">Revoke Access Token</button>
 
 </div>
-<iframe src="https://calendar.google.com/calendar/embed?src=ardayildirim1925%40hotmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+ *@
